@@ -10,6 +10,12 @@
 
 Whilst I get my GitHub looking respectable, here's a brief introduction into projects I want to share:
 
+
+[Gigify](https://github.com/tudley/Gigify)
+
+- This purpose of this project is to create a web service which allows you to link your spotify account, and creates a playlist based on your preferences, with artists that have upcoming shows in your area.
+- This project is focussed on using new tech stacks with a lightweight framework - im just looking to prototpye a web service leveraging Flasks minimal structure, and try to incorporate some React and [MUI](https://mui.com/) assets, so I can focus on learning a new stack and interfacing with multiple APIs.
+
 [SocialMediaClone](https://github.com/tudley/SocialMediaClone)
 
 - Winning no points in originality, This porject is as it says on the tin - I'm trying to create a functional social media site.
