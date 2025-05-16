@@ -1,12 +1,10 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on creating web apps
-- 🌱 I’m currently learning Python (Django, Pygame, UnitTest) and Java (Junit, Mockito)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 🔭 I’m currently working on creating web apps with API functionality
+- 🧠 My current stack: Python (Django, Flask, Pygame, UnitTest, Requests) and Java (Junit, Mockito)
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tom-young-706373199/)
-- ⚡ Fun fact:
 
 Whilst I get my GitHub looking respectable, here's a brief introduction into projects I want to share:
 
